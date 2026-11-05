@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AkshitLekhwar/DSA/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/AkshitLekhwar/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/AkshitLekhwar/DSA/tree/master/3870-count-commas-in-range) |
