@@ -20,6 +20,7 @@
 | [0027-remove-element](https://github.com/AkshitLekhwar/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
@@ -49,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AkshitLekhwar/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
