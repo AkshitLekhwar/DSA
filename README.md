@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshitLekhwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -152,4 +153,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkshitLekhwar/DSA/tree/master/0011-container-with-most-water) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshitLekhwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshitLekhwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/AkshitLekhwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
