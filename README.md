@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
+| [0704-binary-search](https://github.com/AkshitLekhwar/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -65,6 +66,7 @@
 | [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/AkshitLekhwar/DSA/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
