@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/AkshitLekhwar/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/AkshitLekhwar/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 ## String Matching
