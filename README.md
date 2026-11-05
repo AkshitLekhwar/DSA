@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -75,6 +76,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshitLekhwar/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AkshitLekhwar/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkshitLekhwar/DSA/tree/master/0070-climbing-stairs) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
