@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -101,6 +102,7 @@
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/AkshitLekhwar/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/AkshitLekhwar/DSA/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
