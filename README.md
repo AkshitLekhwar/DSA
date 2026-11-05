@@ -17,6 +17,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AkshitLekhwar/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshitLekhwar/DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/AkshitLekhwar/DSA/tree/master/2235-add-two-integers) |
