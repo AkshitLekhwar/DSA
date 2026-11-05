@@ -34,4 +34,16 @@
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
