@@ -20,6 +20,7 @@
 | [0027-remove-element](https://github.com/AkshitLekhwar/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AkshitLekhwar/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
