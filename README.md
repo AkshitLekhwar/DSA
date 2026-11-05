@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/AkshitLekhwar/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
