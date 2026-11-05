@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/AkshitLekhwar/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -35,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AkshitLekhwar/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -46,6 +49,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AkshitLekhwar/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -65,6 +69,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshitLekhwar/DSA/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/AkshitLekhwar/DSA/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/AkshitLekhwar/DSA/tree/master/3870-count-commas-in-range) |
@@ -92,4 +97,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AkshitLekhwar/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
