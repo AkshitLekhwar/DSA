@@ -46,6 +46,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AkshitLekhwar/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -60,6 +61,7 @@
 | [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AkshitLekhwar/DSA/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
