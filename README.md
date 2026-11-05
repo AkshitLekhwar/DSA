@@ -34,6 +34,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshitLekhwar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/AkshitLekhwar/DSA/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshitLekhwar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/AkshitLekhwar/DSA/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
 |  |
