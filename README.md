@@ -36,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -45,6 +46,7 @@
 | [0001-two-sum](https://github.com/AkshitLekhwar/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -73,6 +75,7 @@
 | [0058-length-of-last-word](https://github.com/AkshitLekhwar/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
+| [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
 | ------- |
