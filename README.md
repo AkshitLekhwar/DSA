@@ -7,6 +7,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AkshitLekhwar/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AkshitLekhwar/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/AkshitLekhwar/DSA/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AkshitLekhwar/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0088-merge-sorted-array](https://github.com/AkshitLekhwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitLekhwar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/AkshitLekhwar/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
