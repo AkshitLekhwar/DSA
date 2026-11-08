@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshitLekhwar/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AkshitLekhwar/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/AkshitLekhwar/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AkshitLekhwar/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AkshitLekhwar/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AkshitLekhwar/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AkshitLekhwar/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AkshitLekhwar/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AkshitLekhwar/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
