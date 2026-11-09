@@ -34,6 +34,7 @@
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/AkshitLekhwar/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -57,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/AkshitLekhwar/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
+| [1748-sum-of-unique-elements](https://github.com/AkshitLekhwar/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -223,4 +225,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AkshitLekhwar/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/AkshitLekhwar/DSA/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
