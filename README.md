@@ -65,6 +65,7 @@
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 | [1748-sum-of-unique-elements](https://github.com/AkshitLekhwar/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AkshitLekhwar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkshitLekhwar/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AkshitLekhwar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
