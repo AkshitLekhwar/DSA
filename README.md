@@ -82,6 +82,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AkshitLekhwar/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AkshitLekhwar/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkshitLekhwar/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AkshitLekhwar/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -106,6 +107,7 @@
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/AkshitLekhwar/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/AkshitLekhwar/DSA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshitLekhwar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
