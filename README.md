@@ -35,6 +35,7 @@
 | [0283-move-zeroes](https://github.com/AkshitLekhwar/DSA/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshitLekhwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AkshitLekhwar/DSA/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -54,6 +55,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AkshitLekhwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AkshitLekhwar/DSA/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshitLekhwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
@@ -131,6 +133,7 @@
 | [0069-sqrtx](https://github.com/AkshitLekhwar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AkshitLekhwar/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/AkshitLekhwar/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AkshitLekhwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AkshitLekhwar/DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AkshitLekhwar/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
