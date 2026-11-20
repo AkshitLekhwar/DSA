@@ -44,6 +44,7 @@
 | [1748-sum-of-unique-elements](https://github.com/AkshitLekhwar/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1920-build-array-from-permutation](https://github.com/AkshitLekhwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshitLekhwar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -201,6 +202,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/AkshitLekhwar/DSA/tree/master/1920-build-array-from-permutation) |
 ## Greedy
 |  |
 | ------- |
