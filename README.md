@@ -46,6 +46,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/AkshitLekhwar/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AkshitLekhwar/DSA/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshitLekhwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshitLekhwar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -116,6 +117,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshitLekhwar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshitLekhwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AkshitLekhwar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
@@ -207,6 +209,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/AkshitLekhwar/DSA/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshitLekhwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
 |  |
 | ------- |
