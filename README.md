@@ -146,6 +146,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/AkshitLekhwar/DSA/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AkshitLekhwar/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3360-stone-removal-game](https://github.com/AkshitLekhwar/DSA/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshitLekhwar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/AkshitLekhwar/DSA/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
@@ -210,6 +211,7 @@
 | [0067-add-binary](https://github.com/AkshitLekhwar/DSA/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/AkshitLekhwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshitLekhwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3360-stone-removal-game](https://github.com/AkshitLekhwar/DSA/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
