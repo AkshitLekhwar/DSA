@@ -93,6 +93,7 @@
 | [0283-move-zeroes](https://github.com/AkshitLekhwar/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AkshitLekhwar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/AkshitLekhwar/DSA/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/AkshitLekhwar/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshitLekhwar/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -119,6 +120,7 @@
 | [0344-reverse-string](https://github.com/AkshitLekhwar/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AkshitLekhwar/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/AkshitLekhwar/DSA/tree/master/0389-find-the-difference) |
+| [0541-reverse-string-ii](https://github.com/AkshitLekhwar/DSA/tree/master/0541-reverse-string-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AkshitLekhwar/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshitLekhwar/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/AkshitLekhwar/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
