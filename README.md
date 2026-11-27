@@ -50,6 +50,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkshitLekhwar/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshitLekhwar/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AkshitLekhwar/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3912-valid-elements-in-an-array](https://github.com/AkshitLekhwar/DSA/tree/master/3912-valid-elements-in-an-array) |
 ## Sorting
 |  |
 | ------- |
